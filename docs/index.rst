@@ -5,7 +5,7 @@ Official documentation for the Aveti Teachers App, including guides, feature exp
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Contents
 
    caf/value-proposition
    caf/business-strategy
