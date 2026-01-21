@@ -21,7 +21,6 @@ Key Features
 ------------
 
 - **Lesson Planning**: Create and organize lesson plans aligned with the curriculum.
-- **Assessment Tools**: Access tools for grading, assignments, and quizzes.
-- **Communication**: Stay connected with students and parents through integrated messaging systems.
-- **Content Delivery**: Upload and share digital learning materials such as videos,
+- **Assessment Features**: Access tools for grading, assignments, and quizzes.
+- **Tools**: Upload and share digital learning materials such as videos,
   worksheets, and notes.
