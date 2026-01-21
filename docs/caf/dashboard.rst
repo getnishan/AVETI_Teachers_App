@@ -2,5 +2,5 @@ Test Image
 ==========
 
 .. image:: /_static/images/slidetwo.png
-   :width: 50%
+   :width: 100%
    :align: center
