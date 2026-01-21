@@ -1,4 +1,4 @@
-Test Image
+Dashboard
 ==========
 
 .. image:: /_static/images/slidetwo.png
