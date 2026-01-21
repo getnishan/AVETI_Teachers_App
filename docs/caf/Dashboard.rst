@@ -1,6 +1,6 @@
 Test Image
 ==========
 
-.. image:: /_static/images/Slidetwo.png
+.. image:: /_static/images/slidetwo.png
    :width: 50%
 
