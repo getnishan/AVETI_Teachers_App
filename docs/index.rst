@@ -7,7 +7,7 @@ Official documentation for the Aveti Teachers App, including guides, feature exp
    :maxdepth: 2
    :caption: Contents
 
-   caf/dashboard
+   caf/Overview
    caf/business-strategy
    caf/people-strategy
    caf/security
