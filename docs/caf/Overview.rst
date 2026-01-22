@@ -8,6 +8,7 @@ efficiently manage and deliver classroom content.
    :width: 100%
    :align: center
 
+
 The **Aveti Teachers App** is a comprehensive platform designed to help teachers
 efficiently manage and deliver classroom content. This app provides teachers
 with tools to plan, execute, and assess lessons while maintaining seamless
