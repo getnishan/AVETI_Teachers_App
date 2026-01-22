@@ -1,4 +1,4 @@
-Dashboard
+Overview
 ==========
 The **Aveti Teachers App** is a comprehensive platform designed to help teachers
 efficiently manage and deliver classroom content.
