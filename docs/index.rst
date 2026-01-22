@@ -8,7 +8,7 @@ Official documentation for the Aveti Teachers App, including guides, feature exp
    :caption: Contents
 
    caf/Overview
-   caf/business-strategy
+   caf/Onboarding-Process
    caf/people-strategy
    caf/security
    caf/process-design
