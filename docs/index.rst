@@ -9,7 +9,7 @@ Official documentation for the Aveti Teachers App, including guides, feature exp
 
    caf/Overview
    caf/Onboarding-Process
-   caf/people-strategy
+   caf/Lesson-Plan
    caf/security
    caf/process-design
    caf/technology-implementation
