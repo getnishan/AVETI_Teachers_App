@@ -4,7 +4,7 @@ Onboarding Process – Aveti Teachers App
 The **Aveti Teachers App** provides a straightforward onboarding process to help
 new users get started quickly. The steps are simple and easy to follow.
 
-.. image:: /_static/images/login-screen.png
+.. image:: _static/images/onboarding.png
    :width: 100%
    :align: center
 
