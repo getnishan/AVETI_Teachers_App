@@ -7,7 +7,7 @@ offers a clear and user-friendly interface, allowing teachers to quickly
 navigate through available subjects and grade-specific content.
 
 
-.. image:: /_static/images/lesson-plan.png
+.. image:: /_static/images/lessonplan.png
    :width: 100%
    :align: center
    :alt: Lesson Plan section showing grade-wise subjects
