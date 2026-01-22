@@ -1,5 +1,5 @@
-Lesson Plan Section – Aveti Teachers App
-=======================================
+Lesson Plan Section
+===================
 
 The **Lesson Plan** section in the Aveti Teachers App provides teachers with easy
 access to **curriculum-aligned lesson plans** for different grades. The app
