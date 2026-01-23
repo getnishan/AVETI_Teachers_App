@@ -93,7 +93,61 @@ Explore Interactive Learning Aids
   - **Mind Maps**
   - **CET Questions**
   - **CET Keys**
+  - Additional supporting materials
 
 These tools support interactive teaching and help reinforce student learning
 through structured and engaging content.
+
+
+Icons Representation
+====================
+
+Overview of Icons Representing Key Features in the Lesson Plan
+--------------------------------------------------------------
+
+The **Aveti Teachers App** uses intuitive icons to represent different types of
+teaching resources and materials. These icons help teachers quickly identify and
+navigate various lesson-related content within the Lesson Plan section.
+
+.. image:: /_static/images/lp2.png
+   :width: 100%
+   :align: center
+   :alt: Lesson Plan section showing grade-wise subjects
+
+
+Icon Breakdown
+--------------
+
+**Chapter-End Test**
+  Represents the **chapter-end test** used to evaluate student learning outcomes.
+
+**Worksheet**
+  Refers to **worksheets** designed to provide practice and reinforcement for students.
+
+**Revision Plan**
+  Helps teachers guide students through **revision materials** before exams.
+
+**Lesson Plan**
+  Displays the **teacher’s lesson plan** for the selected topic or subject.
+
+**Lesson PDF**
+  PDF files containing **detailed lesson content** for reference.
+
+**Study Notes**
+  A collection of **study materials, summaries, and notes** for the subject.
+
+**Short–Long Questions**
+  Includes both **short-answer and long-answer questions** for practice or assessment.
+
+**PowerPoint (PPT)**
+  PowerPoint presentations related to the lesson or topic.
+
+**Document**
+  Other **supporting documents** associated with the lesson plan.
+
+**Teaching Plan**
+  A detailed **teaching strategy** for delivering the lesson effectively.
+
+**Key Solutions**
+  Provides **answers and solutions** to exercises, worksheets, or assessments.
 
