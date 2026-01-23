@@ -151,3 +151,5 @@ Icon Breakdown
 **Key Solutions**
   Provides **answers and solutions** to exercises, worksheets, or assessments.
 
+This slides clearly outlines how teachers can use the Lesson Plan Process in the app, providing a detailed overview of selecting lessons, accessing teaching materials, and utilizing interactive learning aids.
+
