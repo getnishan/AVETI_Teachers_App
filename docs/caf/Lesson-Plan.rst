@@ -100,7 +100,7 @@ through structured and engaging content.
 
 
 Icons Representation
-====================
+---------------------------
 
 Overview of Icons Representing Key Features in the Lesson Plan
 --------------------------------------------------------------
