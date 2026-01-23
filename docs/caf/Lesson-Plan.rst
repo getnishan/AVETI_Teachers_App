@@ -42,7 +42,7 @@ Note
 
 
 Step-by-Step Process for Accessing and Using the Lesson Plans
-=============================================================
+------------------------------------
 
 Detailed Steps to Access Lesson Plans
 ------------------------------------
