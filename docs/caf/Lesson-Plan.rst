@@ -51,7 +51,7 @@ The **Aveti Teachers App** streamlines the lesson preparation process by providi
 easy access to a wide range of learning resources. This step-by-step guide helps
 teachers navigate and utilize lesson plans efficiently.
 
-.. image:: /_static/images/lessonplan.png
+.. image:: /_static/images/lp3.png
    :width: 100%
    :align: center
    :alt: Lesson Plan section showing grade-wise subjects
