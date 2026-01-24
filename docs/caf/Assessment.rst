@@ -1,47 +1,18 @@
 Assessment
 ===================
 
-The **Aveti Teachers App** provides a straightforward onboarding process to help
-new users get started quickly. The steps are simple and easy to follow.
+The Assessment section in the Aveti Teachers App helps teachers access grade-wise and subject-wise assessment tests in a structured and easy-to-use format. It allows teachers to quickly select the required class and subject to open relevant tests and follow the evaluation process smoothly.
 
 .. image:: /_static/images/ast1.png
    :width: 100%
    :align: center
 
 
-Log In
+How to Access
 ------
 
-1. Begin by entering your **mobile number** on the login screen.
-2. If you don’t have an account yet, tap **Register** to create a new account.
+Open the app and tap on the Assessment tab from the bottom menu.
 
+Under Your Classes, choose the required grade.
 
-Enter OTP
----------
-
-1. After logging in, you’ll receive a **4-digit OTP (One Time Password)** on your mobile.
-2. Enter the OTP in the provided fields to verify your identity.
-
-OTP Verification
-----------------
-
-1. Once you’ve entered the OTP, press **Submit** to verify your mobile number.
-2. If you don’t receive the OTP, tap **Resend OTP**.
-
-Registration Confirmation
--------------------------
-
-1. After successful verification, a **Congratulations!** message will appear,
-   confirming that your account has been registered.
-2. Tap **Go to Home** to access the app’s main features.
-
-Note
-----
-
-.. note::
-
-   Currently, account creation is handled through the **ERP Management System**.
-   Users only need to enter their mobile number and OTP to complete registration.
-
-Once onboarding is complete, you will be redirected to the **Lesson Plan** page,
-where you can start using the app for your teaching activities.
+Select the relevant subject to view available assessment tests.
